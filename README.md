@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [Resume](./resume.pdf)
+- [Portfolio](https://kwon-hyukwon.notion.site/)
+
